@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm André Amorim</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baldros&label=Profile%20views&color=0e75b6&style=flat" alt="baldros" /> </p>
-<img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif>
+<img align="right" alt="Coding" width="350" src=https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,7 +12,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=baldros&show_icons=true&locale=en" alt="baldros" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=baldros&show_icons=true&locale=en&layout=compact" alt="baldros" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baldros&show_icons=true&locale=en&layout=compact" alt="baldros" /></p>
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=baldros&" alt="baldros" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=baldros&" alt="baldros" /></p>
