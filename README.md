@@ -12,5 +12,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baldros&show_icons=true&locale=en&layout=compact" alt="baldros" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=baldros&show_icons=true&locale=en" alt="baldros" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=baldros&show_icons=true&locale=en" alt="baldros" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=baldros&" alt="baldros" /></p>
