@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm André Amorim</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baldros&label=Profile%20views&color=0e75b6&style=flat" alt="baldros" /> </p>
-<img align="right" alt="Coding" width="300" src=https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif>
+<img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
