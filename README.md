@@ -13,7 +13,7 @@
 
 <h3>About me:</h3>
 <p>
-Hello! My name is André Amorim, and I am pursuing a <strong>bachelor's degree in Mathematical and Earth Sciences at UFRJ</strong>, with a focus on <strong>Data Analysis/Data Science</strong>. Currently, I am an active member of the <a> href="[link-do-site-do-laboratorio](https://lasa.ufrj.br)" target="_blank"><strong>Laboratório de Aplicações de Satélites Ambientais (LASA)</strong></a> in the Department of Meteorology at UFRJ, working as a Data Analyst in the field of Remote Sensing. I have also been involved in other projects and collaborated with various laboratories from different institutes within the university, building a diverse knowledge base in the field of data.
+Hello! My name is André Amorim, and I am pursuing a <strong>bachelor's degree in Mathematical and Earth Sciences at UFRJ</strong>, with a focus on <strong>Data Analysis/Data Science</strong>. Currently, I am an active member of the <a> href="https://lasa.ufrj.br" target="_blank"><strong>Laboratório de Aplicações de Satélites Ambientais (LASA)</strong></a> in the Department of Meteorology at UFRJ, working as a Data Analyst in the field of Remote Sensing. I have also been involved in other projects and collaborated with various laboratories from different institutes within the university, building a diverse knowledge base in the field of data.
 
 The purpose of this GitHub repository, in addition to serving as a portfolio, is to provide quick access to the knowledge acquired throughout my professional career. All the information here is organized for easy review. While I may not be very active currently, I plan to contribute more soon, and this space will be filled with new projects.
 </p>
