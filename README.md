@@ -83,7 +83,7 @@ My journey combines solid technical expertise in Python, Machine Learning, and M
 ✉️ **Email:** amorim.techconsult@gmail.com
 
 ---
-g
+
 <p align="center">
   <i>"Through hardships to the stars"</i>
 </p>
