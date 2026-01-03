@@ -80,16 +80,10 @@ My journey combines solid technical expertise in Python, Machine Learning, and M
 </p>
 
 📍 **Location:** Rio de Janeiro, Brazil  
-✉️ **Email:** amorimtechconsult@gmail.com
+✉️ **Email:** amorim.techconsult@gmail.com
 
 ---
-
-## 📝 About This GitHub
-
-The purpose of this GitHub, in addition to serving as a portfolio, is to provide quick access to the knowledge acquired throughout my professional career. All the information here is organized for easy review. While I may not be very active currently, I plan to contribute more soon, and this space will be filled with new projects focused on **AI applications**, **automation solutions**, and **data science**.
-
----
-
+g
 <p align="center">
   <i>"Through hardships to the stars"</i>
 </p>
